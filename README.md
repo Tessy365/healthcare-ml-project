@@ -9,6 +9,15 @@ An end-to-end machine learning application that predicts patient healthcare outc
 
 ---
 
+---
+
+## 📸 Application Preview
+
+![Healthcare ML Application Screenshot](ui_screenshot.png)
+
+---
+
+
 ## 🔗 Live Application Links
 
 * **Interactive Web App**: [https://healthcare-ml-frontend.onrender.com](https://healthcare-ml-frontend.onrender.com)
